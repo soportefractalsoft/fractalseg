@@ -1,0 +1,4 @@
+[submodule "ceduardodch/odoo_ec"]
+	path = ceduardodch/odoo_ec
+	url = git@github.com:ceduardodch/odoo_ec.git
+	branch = master
